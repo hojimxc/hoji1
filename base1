@@ -10,3 +10,6 @@ def generate_password(length=12):
 password = generate_password()
 
 print("Generated password:", password)
+
+# commito counterio montoya
+commit_number = 1
